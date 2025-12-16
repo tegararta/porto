@@ -1,0 +1,17 @@
+export const skills = [
+    { name: 'HTML', icon: 'html5', category: 'frontend' },
+    { name: 'CSS', icon: 'css3', category: 'frontend' },
+    { name: 'JavaScript', icon: 'javascript', category: 'frontend' },
+    { name: 'TypeScript', icon: 'typescript', category: 'frontend' },
+    { name: 'React', icon: 'react', category: 'frontend' },
+    { name: 'Node.js', icon: 'nodejs', category: 'backend' },
+    { name: 'PHP', icon: 'php', category: 'backend' },
+    { name: 'MySQL', icon: 'mysql', category: 'database' },
+    { name: 'Git', icon: 'git', category: 'tools' },
+    { name: 'Docker', icon: 'docker', category: 'tools' },
+    { name: 'Ansible', icon: 'ansible', category: 'tools' },
+    { name: 'Figma', icon: 'figma', category: 'design' },
+    { name: 'Tailwind CSS', icon: 'tailwind', category: 'frontend' },
+    { name: 'Laravel', icon: 'laravel', category: 'backend' },
+    { name: 'Nginx', icon: 'nginx', category: 'tools' },
+  ]
